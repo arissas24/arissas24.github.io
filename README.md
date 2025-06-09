@@ -1,6 +1,6 @@
 # My CIT Minor Portfolio
 
-![Portfolio Image](assets/7922058.jpg)
+![Portfolio Image](assets/images/7922058.jpg)
 
 Welcome to my portfolio site for CIT 281! Below are summaries of each project I completed as part of the course.
 
