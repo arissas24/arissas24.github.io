@@ -9,6 +9,9 @@ Welcome to my portfolio for **CIT 281**. This site showcases each of my projects
 
 ---
 
+<div style="display: flex; align-items: flex-start; gap: 2rem;">
+<div style="flex: 2;">
+
 ## Projects
 
 ### [Project 1: Command Line and Node.js Basics](#)
@@ -39,6 +42,12 @@ Welcome to my portfolio for **CIT 281**. This site showcases each of my projects
 - Used server-side memory to manage tasks and implemented all HTTP methods (GET, POST, PUT, DELETE).
 - Practiced full-stack development and GitHub version control.
 
+</div>
+
+<div style="flex: 1; min-width: 200px;">
+  <img src="/assets/images/7922058.jpg" alt="Profile photo" style="max-width: 100%; border-radius: 12px;" />
+</div>
+</div>
 ---
 
 Thanks for visiting my portfolio!
