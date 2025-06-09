@@ -1,6 +1,8 @@
 # My CIT Minor Portfolio
 
-<img src="assets/images/7922058.jpg" alt="Banner" width="150" />
+<div align="center">
+  <img src="assets/images/7922058.jpg" alt="Description" width="200" />
+</div>
 
 Welcome to my portfolio site for CIT 281! Below are summaries of each project I completed as part of the course.
 
